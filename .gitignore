@@ -2,3 +2,4 @@
 .DS_Store
 myenv/
 langchain-docs/
+backend/__pycache__/
